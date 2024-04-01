@@ -1,2 +1,2 @@
-# Especialidad-DW-10-2
+# Proyecto WB 10-2
 portafolio de la especialidad de desarrollo web.
